@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Report
+# <p align="center"> Coffee Shop Sales Analysis Report <p>
 ![JDE-hero](https://github.com/user-attachments/assets/9163534f-9df0-4b98-ba4b-a5032d8fc0a4)
 
 ## Project Overview : 
@@ -7,7 +7,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 ## Build With :
 Microsoft Excel
 
-## Result and Insights :
+## Insights and Result:
 - I have noticed that the Revenue is continuously growing.
 - The busiest days are Mondays, Thursdays and Fridays in general. This does make sense since people do like to visit coffee shops when they are all jacked up for work.
 - The busiest hours are in the mornings when people are visiting their offices.
