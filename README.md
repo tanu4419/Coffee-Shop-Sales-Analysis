@@ -1,10 +1,10 @@
 # Coffee Shop Sales Analysis Report
 ![JDE-hero](https://github.com/user-attachments/assets/9163534f-9df0-4b98-ba4b-a5032d8fc0a4)
 
-## Overview : 
+## Project Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
-## Tool used :
+## Build With :
 Microsoft Excel
 
 ## Result and Insights :
