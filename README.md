@@ -1,5 +1,5 @@
-# Coffee Sales Dashboard
-![Coffee Background Banner (4)](https://github.com/user-attachments/assets/92cc3a31-eb81-4019-9919-c8b041a752c1)
+# Coffee Shop Sales Analysis Report
+![coffee](https://github.com/user-attachments/assets/4b8cd645-29c9-4607-aa7e-a863ccc99565)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
